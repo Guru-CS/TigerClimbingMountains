@@ -1,0 +1,14 @@
+@font-face {
+    font-family:tiger ;
+    src: url(Tiger\ Demo.otf);
+}
+
+.main {
+    font-family: tiger;
+    font-size:  75px;;
+}
+
+.caption {
+    caption-side: bottom;
+    color: #FF7F50;
+}
