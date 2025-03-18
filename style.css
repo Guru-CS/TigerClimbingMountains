@@ -12,3 +12,7 @@
     caption-side: bottom;
     color: #FF7F50;
 }
+body{
+    background-image: linear-gradient(to right, black,orange); 
+   
+}
